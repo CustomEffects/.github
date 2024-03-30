@@ -13,13 +13,13 @@
 
 Effects are (A)PNG images that are 450x880. You can use our template if you need it.
 
-**[Here is the template](https://raw.githubusercontent.com/CustomEffects/.github/main/assets/template.png)**
+**[Here is the template](template)**
 
 Animated effects will be split into 2 files, a PNG of the first frame (thumbnail) and the other being the full animation (loop).
 
 ## Reviewing
 
-Requesting an Effect is done inside our [Discord Server](https://discord.gg/)
+Requesting an Effect is done inside our [Discord Server](server)
 
 After requesting your effect, you won't be able to use it until it is reviewed by our Reviewer Team.
 
@@ -27,4 +27,7 @@ Please do not harass our reviewers to review your effect.
 
 If your effect is reviewed, and approved, it will be addded to our database and selected as your Profile Effect. Otherwise, it will be deleted.
 
-If you want to create presets that everyone can use, check your [Discord Server](https://discord.gg/)
+If you want to create presets that everyone can use, check your [Discord Server](server)
+
+[server]: https://discord.gg/
+[template]: https://raw.githubusercontent.com/CustomEffects/.github/main/assets/template.png
