@@ -27,6 +27,8 @@ Please do not harass our reviewers to review your effect.
 
 If your effect is reviewed, and approved, it will be addded to our database and selected as your Profile Effect. Otherwise, it will be deleted.
 
+Also if your effect gets accepted, due to GitHub Caches your effect won't be showed to you or anyone instantly, try reloading your Discord after 2 mins or just wait 2 mins but it will show eventually
+
 If you want to create presets that everyone can use, check your [Discord Server](server)
 
 [server]: https://discord.gg/
