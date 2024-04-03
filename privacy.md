@@ -8,7 +8,7 @@ When you request a custom Profile Effect using CustomEffects, we may collect and
 
 ### Data Removal
 
-If you want to remove any data from our [database][db] please contact our CustomEffects Team on [Discord][server]
+If you want to remove any of your data from our [database][db] please contact our CustomEffects Team on [Discord][server]
 
 ### Information Sharing and Disclosure
 
