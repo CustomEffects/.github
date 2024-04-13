@@ -9,5 +9,5 @@ Install CustomEffects by simply checking our [CustomEffectsTheme][themerepo] rep
 
 <img src="/assets/profile.gif" alt="SerStars' Profile with Effect" width="350" height="650">
 
-[server]: https://discord.gg/
+[server]: https://discord.gg/EUM3spHREG
 [themerepo]: https://github.com/CustomEffects/CustomEffectsTheme
