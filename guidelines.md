@@ -5,9 +5,9 @@
 1. No pornography, gore, etc (No NSFW).
 2. No excessive flashing.
 3. No political content.
-5. **No re-uploaded Discord profile effects.** 
-6. Our Team has the right to deny effects for any reason.
-7. Our Team also have the right to prevent you from creating effects for violating the rules.
+> 4. No re-uploaded Discord profile effects. 
+5. Our Team has the right to deny effects for any reason.
+6. Our Team also have the right to prevent you from creating effects for violating the rules.
 
 ## Effect Sizes
 
