@@ -31,5 +31,5 @@ Also if your effect gets approved, due to GitHub Caches your effect won't be sho
 
 If you want to create presets that everyone can use, check your [Discord Server](server)
 
-[server]: https://discord.gg/
+[server]: https://discord.gg/EUM3spHREG
 [template]: https://raw.githubusercontent.com/CustomEffects/.github/main/assets/template.png
