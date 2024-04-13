@@ -26,5 +26,5 @@ We may update this Privacy Policy to reflect changes to our practices or for oth
 
 If you have any questions about this Privacy Policy, you can contact us through Discord by reaching out to our CustomEffects Team on [Discord][server].
 
-[server]: https://discord.gg/
+[server]: https://discord.gg/EUM3spHREG
 [db]: https://github.com/CustomEffects/database
