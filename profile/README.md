@@ -1,7 +1,7 @@
 ## CustomEffects
 
 Custom Profile Effects for your profile on Discord!
-Available on Vencord.
+Available on Vencord and BetterDiscord.
 
 Join our [Discord Server](server) for your own custom Profile Effect :)
 
