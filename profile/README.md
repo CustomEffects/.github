@@ -3,7 +3,7 @@
 Custom Profile Effects for your profile on Discord!
 Available on Vencord and BetterDiscord.
 
-Join our [Discord Server](server) for your own custom Profile Effect :)
+Join our [Discord Server][server] for your own custom Profile Effect :)
 
 Install CustomEffects by simply pasting the link below for in your "Online Themes"
 ```
