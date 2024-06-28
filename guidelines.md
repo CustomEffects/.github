@@ -29,7 +29,7 @@ If your effect is reviewed, and approved, it will be addded to our database and 
 
 Also if your effect gets approved, due to GitHub Caches your effect won't be showed to you or anyone instantly, try reloading your Discord after 2 mins or just wait 2 mins but it will show eventually
 
-If you want to create presets that everyone can use, check your [Discord Server](server)
+If you want to create presets that everyone can use, check our [Discord Server](server)
 
 [server]: https://discord.gg/EUM3spHREG
 [template]: https://raw.githubusercontent.com/CustomEffects/.github/main/assets/template.png
