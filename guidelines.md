@@ -5,13 +5,14 @@
 1. No pornography, gore, etc (No NSFW).
 2. No excessive flashing.
 3. No political content.
-> 4. No re-uploaded Discord profile effects. 
+4. No re-uploaded Discord profile effects. 
 5. Our Team has the right to deny effects for any reason.
 6. Our Team also have the right to prevent you from creating effects for violating the rules.
+7. Your profile has to be visible.
 
 ## Effect Sizes
 
-Effects are (A)PNG images that are 450x880. You can use our template if you need it.
+Effects are (A)PNG images and GIF that are 450x880. You can use our template if you need it.
 
 **[Here is the template](template)**
 
